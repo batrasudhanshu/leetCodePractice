@@ -1,1 +1,1 @@
-//leetcode Solution
+//leetcode Solutions
